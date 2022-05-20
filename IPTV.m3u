@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" group-title="News", DBC NEWS
-http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8\
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 #EXTINF:0 tvg-logo="" group-title="News", NEWS 24
 http://10.16.100.245/hindi/channeL24_1st0p.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",SOMOY SONGBAD
@@ -27,3 +27,9 @@ http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
 #EXTINF:0 tvg-logo="" group-title="E-BANGLA",SONY AAT
 http://10.16.100.204:8082/hls/s0ny8aat.m3u8
+#EXTINF:0 tvg-logo="" group-title="E-BANGLA",Zee Bangla
+http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+#EXTINF:0 tvg-logo="" group-title="Misuc",Gan Bangla
+http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+#EXTINF:0 tvg-logo="" group-title="Misuc",Zee Bangla
+http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
