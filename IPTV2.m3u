@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
-
 #EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png"group-title="Sports", Willo TV
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Sony_TEN_logo.png"group-title="Sports", Sony10 1
