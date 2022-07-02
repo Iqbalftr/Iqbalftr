@@ -8,7 +8,7 @@ http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 #EXTINF:0 tvg-logo="" group-title="News",RTV
 http://10.16.100.245/hindi/R_tv_1st0p.m3u8
 #EXTINF:0 tvg-logo="" group-title="SPORTS",T-SPORTS
-http://10.16.100.207:8088/sports/t$sports_loacal@.m3u8
+http://30.30.30.30/live/skyfeed2001/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="SPORTS",T-SPORTS
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 #EXTINF:0 tvg-logo="" group-title="SPORTS",PTV SPORTS
