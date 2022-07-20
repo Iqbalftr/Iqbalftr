@@ -1,39 +1,36 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="" group-title="News", DBC NEWS
-http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
-#EXTINF:0 tvg-logo="" group-title="News", NEWS 24
-http://10.16.100.245/hindi/channeL24_1st0p.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",SOMOY SONGBAD
-http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
-#EXTINF:0 tvg-logo="" group-title="News",RTV
-http://10.16.100.245/hindi/R_tv_1st0p.m3u8
-#EXTINF:0 tvg-logo="" group-title="SPORTS",T-SPORTS
-http://30.30.30.30/live/skyfeed2001/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="SPORTS",T-SPORTS
-http://113.212.111.246:8080/hls/col2.m3u8
-#EXTINF:0 tvg-logo="" group-title="SPORTS",PTV SPORTS
-http://10.16.100.245/hindi/pTvSp0rts.m3u8
-#EXTINF:0 tvg-logo="" group-title="SPORTS",SONY SIX
-http://10.16.100.207:8082/sports/s0ny6six.m3u8
-#EXTINF:0 tvg-logo="" group-title="SPORTS",STAR SPORT ONE
-http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
-#EXTINF:0 tvg-logo="" group-title="SPORTS",STAR SPORT TWO
-http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
-#EXTINF:0 tvg-logo="" group-title="SPORTS",STAR SPORT SELECT ONE
-http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
-#EXTINF:0 tvg-logo="" group-title="SPORTS",STAR SPORT SELECT TWO
-http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
-#EXTINF:0 tvg-logo="" group-title="E-BANGLA",STAR JALSHA
-http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
-#EXTINF:0 tvg-logo="" group-title="E-BANGLA",SONY AAT
-http://10.16.100.204:8082/hls/s0ny8aat.m3u8
-#EXTINF:0 tvg-logo="" group-title="E-BANGLA",Zee Bangla
-http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
-#EXTINF:0 tvg-logo="" group-title="Misuc",Gan Bangla
-http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
-#EXTINF:0 tvg-logo="https://www.pngfind.com/pngs/m/495-4959368_discovery-bangla-logo-graphic-design-hd-png-download.png"group-title="Advanture", Discovery Bangla
-http://tv2.ebox.live:8080/live/discovery.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png"group-title="Advanture", Animale Planet
-http://tv2.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png"group-title="Advanture", National Geography
-http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", T Sports
+http://30.30.30.30/live/skyfeed1007/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Sony Six HD
+http://30.30.30.30/live/skyfeed1008/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Star Sports S 1
+http://30.30.30.30/live/skyfeed1009/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Star Sports S 2
+http://30.30.30.30/live/skyfeed1010/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Star Sports 1
+http://30.30.30.30/live/skyfeed1011/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Star Sports 2
+http://30.30.30.30/live/skyfeed1012/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", Zee Action
+http://30.30.30.30:8081/live/hindi8/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", COLOR Cineplex
+http://30.30.30.30:8081/live/hindi10/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangla", Zee Bangla Cinema
+http://30.30.30.30:8081/live/hindi12/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangla", Zee Bangla HD
+http://30.30.30.30:8081/live/indian2/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangla", Color Bangla HD
+http://30.30.30.30:8081/live/indian4/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangla", Color Bangla Cinema
+http://30.30.30.30:8081/live/indian5/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangla", Akash Aat
+http://30.30.30.30:8081/live/indian6/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangla", Sun Bangla
+http://30.30.30.30:8081/live/indian7/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangla", Star Jalsha
+http://30.30.30.30:8081/live/indian8/chunks.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", T Sports
+http://30.30.30.30:8081/live/bangla51/chunks.m3u8
+
+
+
