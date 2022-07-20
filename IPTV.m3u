@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" group-title="Sports", T Sports
+http://30.30.30.30/live/skyfeed1005/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Sony TEN 2
+http://30.30.30.30/live/skyfeed1006/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Sony TEN 3
 http://30.30.30.30/live/skyfeed1007/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports", Sony Six HD
 http://30.30.30.30/live/skyfeed1008/index.m3u8
