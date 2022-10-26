@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="" group-title="Sports", Tv1
+http://bdiptv.net:8282/en3-34/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Tv2
+http://bdiptv.net:8282/GAZI-TV-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Tv3
+http://bdiptv.net:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Tv4
+http://bdiptv.net:8282/en3-34/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Tv5
+http://bdiptv.net:8282/select2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Tv6
+http://bdiptv.net:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Tv7
+http://bdiptv.net:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Information", Tv8
+http://bdiptv.net:8282/ngohd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv9
+http://bdiptv.net:8282/Lotus-Macau/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv10
+http://bdiptv.net:8282/sangeet-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv11
+http://bdiptv.net:8282/star-gold/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv12
+http://bdiptv.net:8282/sony-max2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv13
+http://bdiptv.net:8282/star-plus/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv14
+http://bdiptv.net:8282/colorscineplex/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv15
+http://bdiptv.net:8282/nick-jr/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv16
+http://bdiptv.net:8282/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv17
+http://bdiptv.net:8282/AND-FLIX/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv18
+http://bdiptv.net:8282/News24bd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv19
+http://bdiptv.net:8282/jalsha-movies/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv20
+http://bdiptv.net:8282/zee-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv21
+http://bdiptv.net:8282/jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv22
+http://bdiptv.net:8282/star-movies-hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv23
+http://bdiptv.net:8282/movies-now/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv24
+http://bdiptv.net:8282/AND-FLIX/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv25
+http://bdiptv.net:8282/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv26
+http://bdiptv.net:8282/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Entertainment", Tv27
+http://bdiptv.net:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8
