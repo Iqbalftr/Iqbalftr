@@ -1,21 +1,92 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="IP TV", T Sports
-http://172.19.178.31/hls/CLOUD-TV-02.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/File:GTVBangladeshLogo.png" group-title="IP TV", Gazi TV
-http://172.19.178.31/hls/JS-TV-01.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="IP TV", Somoy
-http://172.19.178.31/hls/JS-TV-05.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/220px-Star_Jalsha_logo_2023.png" group-title="IP TV", Jalsha Movie
-http://172.19.178.31/hls/JS-TV-06.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zee_Bangla_logo.png/200px-Zee_Bangla_logo.png" group-title="IP TV", Zee Bangla
-http://172.19.178.31/hls/JS-TV-09.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/220px-Star_Jalsha_logo_2023.png" group-title="IP TV", Star Jalsha
-http://172.19.178.31/hls/JS-TV-08.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Jamuna_Television#/media/File:JamunaTV_logo.jpg" group-title="IP TV", Jamuna TV
-http://172.19.178.31/hls/JS-TV-03.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Star_Sports_2.png" group-title="IP TV", Star Sport -1
-http://172.19.178.31/hls/JS-TV-04.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Maasranga_Television#/media/File:Maasranga_Television_Logo.jpg" group-title="IP TV", Machranga
-http://172.19.178.31/hls/JS-TV-02.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Channel_i#/media/File:Channel-i.svg" group-title="IP TV", Channel I
-http://172.19.178.31/hls/JS-TV-07.m3u8
+#EXTINF:-1 tvg-logo="images/TSports.jpg" group-title="FIFA",FIFA-1
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="images/ptvsports.png" group-title="FIFA",FIFA-2
+http://172.16.29.2:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 tvg-logo="images/somoytv.jpg" group-title="FIFA",FIFA-3
+http://172.16.29.2:8090/hls/somoytv.m3u8
+#EXTINF:-1 tvg-logo="images/BTV.png" group-title="FIFA",FIFA-4
+http://172.16.29.2:8090/hls/BTVNationalHD.m3u8
+#EXTINF:-1 tvg-logo="images/TSports.jpg" group-title="FIFA",FIFA-5
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+
+#EXTINF:-1 tvg-logo="images/TSports.jpg" group-title="SPORTS",T SPORTS
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="images/asportse.png" group-title="SPORTS",A SPORTS
+http://172.16.29.2:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 tvg-logo="images/starsportsselect1.png" group-title="SPORTS",STAR SPORTS SELECT
+http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 tvg-logo="images/starsportsselect2hd.png" group-title="SPORTS",STAR SPORTS SELECT 2
+http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 tvg-logo="images/starsports2.png" group-title="SPORTS",STAR SPORTS 2
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-logo="images/starsports1.png" group-title="SPORTS",STAR SPORTS 1
+http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 tvg-logo="images/sonysports1.png" group-title="SPORTS",SONY SPORTS 1
+http://172.16.29.2:8090/hls/tensportshd.m3u8
+#EXTINF:-1 tvg-logo="images/sonysports2.png" group-title="SPORTS",SONY SPORTS 2
+http://172.16.29.2:8090/hls/SonyTen1hd.m3u8
+#EXTINF:-1 tvg-logo="images/sonysports3.png" group-title="SPORTS",SONY SPORTS 3
+http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 tvg-logo="images/sonysports5.png" group-title="SPORTS",SONY SPORTS 5
+http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1 tvg-logo="images/tntsports.png" group-title="SPORTS",TNT SPORTS 1
+http://172.16.29.2:8090/hls/tntsports2hd.m3u8
+#EXTINF:-1 tvg-logo="images/tntsports.png" group-title="SPORTS",TNT SPORTS 2
+http://172.16.29.2:8090/hls/tntsports3hd.m3u8
+#EXTINF:-1 tvg-logo="images/tntsports.png" group-title="SPORTS",TNT SPORTS 3
+http://172.16.29.2:8090/hls/tntsports4hd.m3u8
+#EXTINF:-1 tvg-logo="images/bein1.png" group-title="SPORTS",BEIN SPORTS1ENG
+http://172.16.29.2:8090/hls/BeinSports1ENG.m3u8
+
+#EXTINF:-1 tvg-logo="images/gtv.png" group-title="BANGLA",GTV
+http://172.16.29.2:8090/hls/gazitvhd.m3u8
+#EXTINF:-1 tvg-logo="images/jalshamovies.png" group-title="BANGLA",JALSHA MOVIES
+http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="images/zeebangla.png" group-title="BANGLA",ZEE BANGLA
+http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
+#EXTINF:-1 tvg-logo="images/sonyaath.png" group-title="BANGLA",SONY AATH
+http://172.16.29.2:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 tvg-logo="images/zeebanglacinema.png" group-title="BANGLA",ZEE BANGLA CINEMA
+http://172.16.29.2:8090/hls/ZeeBanglaCinemaHD.m3u8
+#EXTINF:-1 tvg-logo="images/starjalsha.png" group-title="BANGLA",STAR JALSHA
+http://172.16.29.2:8090/hls/StarJalshaHD.m3u8
+
+#EXTINF:-1 tvg-logo="images/sony.png" group-title="HINDI",SONY HD
+http://172.16.29.2:8090/hls/SonyHD.m3u8
+#EXTINF:-1 tvg-logo="images/zeetv.png" group-title="HINDI",ZEE TV HD
+http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
+#EXTINF:-1 tvg-logo="images/stargoldhd.png" group-title="HINDI",STAR GOLD
+http://172.16.29.2:8090/hls/StarGoldHD.m3u8
+#EXTINF:-1 tvg-logo="images/colors.png" group-title="HINDI",COLORS HD
+http://172.16.29.2:8090/hls/ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="images/sonymax.png" group-title="HINDI",SONY MAX
+http://172.16.29.2:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 tvg-logo="images/starplus.png" group-title="HINDI",STAR PLUS
+http://172.16.29.2:8090/hls/StarPlusHD.m3u8
+
+#EXTINF:-1 tvg-logo="images/aljazeranews.png" group-title="NEWS",ALJAZEERA NEWS
+http://172.16.29.2:8090/hls/ALjazeeraNews.m3u8
+#EXTINF:-1 tvg-logo="images/bbcworldnews.png" group-title="NEWS",BBC WORLD
+http://172.16.29.2:8090/hls/bbc_world.m3u8
+#EXTINF:-1 tvg-logo="images/atnnews.jpg" group-title="NEWS",ATN NEWS
+http://172.16.29.2:8090/hls/AtnNews.m3u8
+
+#EXTINF:-1 tvg-logo="images/sangeetbangla.png" group-title="MUSIC",SANGEET BANGLA
+http://172.16.29.2:8090/hls/SangeetBangla.m3u8
+#EXTINF:-1 tvg-logo="images/9xm.png" group-title="MUSIC",9XM
+http://172.16.29.2:8090/hls/9xm.m3u8
+
+#EXTINF:-1 tvg-logo="images/discoveryhd.png" group-title="KIDS",DISCOVERY KIDS
+http://172.16.29.2:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1 tvg-logo="images/cnhd.png" group-title="KIDS",CARTOON NETWORK
+http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8
+
+#EXTINF:-1 tvg-logo="images/andpic.png" group-title="ENGLISH",AND PICTURE
+http://172.16.29.2:8090/hls/AndPictureHD.m3u8
+#EXTINF:-1 tvg-logo="images/star-movies-hd.jpg" group-title="ENGLISH",STAR MOVIES HD
+http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="images/discoveryhd.png" group-title="ENGLISH",DISCOVERY
+http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-logo="images/natgeo.png" group-title="ENGLISH",NAT GEO
+http://172.16.29.2:8090/hls/NatGeoWild.m3u8
